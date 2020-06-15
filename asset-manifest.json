@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-FetchAPI-MapFiltering-Udemy/static/css/main.e47a5796.chunk.css",
+    "main.js": "/React-FetchAPI-MapFiltering-Udemy/static/js/main.a85df958.chunk.js",
+    "main.js.map": "/React-FetchAPI-MapFiltering-Udemy/static/js/main.a85df958.chunk.js.map",
+    "runtime-main.js": "/React-FetchAPI-MapFiltering-Udemy/static/js/runtime-main.5eac3dd4.js",
+    "runtime-main.js.map": "/React-FetchAPI-MapFiltering-Udemy/static/js/runtime-main.5eac3dd4.js.map",
+    "static/js/2.7aaef059.chunk.js": "/React-FetchAPI-MapFiltering-Udemy/static/js/2.7aaef059.chunk.js",
+    "static/js/2.7aaef059.chunk.js.map": "/React-FetchAPI-MapFiltering-Udemy/static/js/2.7aaef059.chunk.js.map",
+    "index.html": "/React-FetchAPI-MapFiltering-Udemy/index.html",
+    "precache-manifest.e87e319d4feaba3cccdb1b28acb37e3d.js": "/React-FetchAPI-MapFiltering-Udemy/precache-manifest.e87e319d4feaba3cccdb1b28acb37e3d.js",
+    "service-worker.js": "/React-FetchAPI-MapFiltering-Udemy/service-worker.js",
+    "static/css/main.e47a5796.chunk.css.map": "/React-FetchAPI-MapFiltering-Udemy/static/css/main.e47a5796.chunk.css.map",
+    "static/js/2.7aaef059.chunk.js.LICENSE.txt": "/React-FetchAPI-MapFiltering-Udemy/static/js/2.7aaef059.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5eac3dd4.js",
+    "static/js/2.7aaef059.chunk.js",
+    "static/css/main.e47a5796.chunk.css",
+    "static/js/main.a85df958.chunk.js"
+  ]
+}
